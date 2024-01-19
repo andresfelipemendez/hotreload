@@ -19,4 +19,4 @@ public:
 
 extern ENGINELIB_API int nenginelib;
 
-ENGINELIB_API int fnenginelib(void);
+extern "C" ENGINELIB_API int fnenginelib(void);

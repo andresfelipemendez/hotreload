@@ -1,0 +1,8 @@
+﻿  pch.cpp
+  dllmain.cpp
+  enginelib.cpp
+  Generating Code...
+     Creating library C:\Users\andres\Development\hotreload\x64\Debug\enginelib.lib and object C:\Users\andres\Development\hotreload\x64\Debug\enginelib.exp
+  enginelib.vcxproj -> C:\Users\andres\Development\hotreload\x64\Debug\enginelib.dll
+  'pwsh.exe' is not recognized as an internal or external command,
+  operable program or batch file.
